@@ -1,0 +1,4148 @@
+{
+ "summary": {
+  "pairs": 516,
+  "orphan_editions": 2,
+  "any_structural_loss": 177,
+  "heading_loss": 171,
+  "codeblock_loss": 109,
+  "stub_editions_among_flagged": 34,
+  "per_locale_loss": {
+   "es": "13/38",
+   "ja-JP": "95/227",
+   "ko-KR": "6/15",
+   "tr": "13/38",
+   "zh-CN": "39/183",
+   "zh-TW": "11/15"
+  }
+ },
+ "rows": [
+  {
+   "skill": "api-design",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.06
+  },
+  {
+   "skill": "backend-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.029
+  },
+  {
+   "skill": "coding-standards",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.061
+  },
+  {
+   "skill": "continuous-learning",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.094
+  },
+  {
+   "skill": "continuous-learning-v2",
+   "locale": "es",
+   "d_headings": -14,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.661
+  },
+  {
+   "skill": "database-migrations",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.105
+  },
+  {
+   "skill": "deployment-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.078
+  },
+  {
+   "skill": "django-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.03
+  },
+  {
+   "skill": "docker-patterns",
+   "locale": "es",
+   "d_headings": -5,
+   "d_blocks": -12,
+   "loss": true,
+   "len_ratio": 0.517
+  },
+  {
+   "skill": "e2e-testing",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.027
+  },
+  {
+   "skill": "eval-harness",
+   "locale": "es",
+   "d_headings": -10,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.698
+  },
+  {
+   "skill": "frontend-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.975
+  },
+  {
+   "skill": "golang-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.014
+  },
+  {
+   "skill": "golang-testing",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.042
+  },
+  {
+   "skill": "jpa-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.061
+  },
+  {
+   "skill": "kotlin-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.029
+  },
+  {
+   "skill": "kotlin-testing",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.038
+  },
+  {
+   "skill": "laravel-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.045
+  },
+  {
+   "skill": "laravel-security",
+   "locale": "es",
+   "d_headings": -37,
+   "d_blocks": -17,
+   "loss": true,
+   "len_ratio": 0.301
+  },
+  {
+   "skill": "laravel-tdd",
+   "locale": "es",
+   "d_headings": -9,
+   "d_blocks": -8,
+   "loss": true,
+   "len_ratio": 0.443
+  },
+  {
+   "skill": "laravel-verification",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.143
+  },
+  {
+   "skill": "nextjs-turbopack",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.168
+  },
+  {
+   "skill": "postgres-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.067
+  },
+  {
+   "skill": "python-patterns",
+   "locale": "es",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 1.02
+  },
+  {
+   "skill": "python-testing",
+   "locale": "es",
+   "d_headings": -18,
+   "d_blocks": -12,
+   "loss": true,
+   "len_ratio": 0.674
+  },
+  {
+   "skill": "quarkus-patterns",
+   "locale": "es",
+   "d_headings": -7,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.734
+  },
+  {
+   "skill": "quarkus-security",
+   "locale": "es",
+   "d_headings": -1,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.874
+  },
+  {
+   "skill": "quarkus-tdd",
+   "locale": "es",
+   "d_headings": -8,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.56
+  },
+  {
+   "skill": "quarkus-verification",
+   "locale": "es",
+   "d_headings": -12,
+   "d_blocks": -3,
+   "loss": true,
+   "len_ratio": 0.86
+  },
+  {
+   "skill": "rust-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.052
+  },
+  {
+   "skill": "rust-testing",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.06
+  },
+  {
+   "skill": "security-review",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.039
+  },
+  {
+   "skill": "springboot-patterns",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.006
+  },
+  {
+   "skill": "springboot-security",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.065
+  },
+  {
+   "skill": "springboot-tdd",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.055
+  },
+  {
+   "skill": "springboot-verification",
+   "locale": "es",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.073
+  },
+  {
+   "skill": "tdd-workflow",
+   "locale": "es",
+   "d_headings": -4,
+   "d_blocks": -5,
+   "loss": true,
+   "len_ratio": 0.641
+  },
+  {
+   "skill": "verification-loop",
+   "locale": "es",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.753
+  },
+  {
+   "skill": "accessibility",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.74
+  },
+  {
+   "skill": "agent-architecture-audit",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.634
+  },
+  {
+   "skill": "agent-eval",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.763
+  },
+  {
+   "skill": "agent-harness-construction",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.588
+  },
+  {
+   "skill": "agent-introspection-debugging",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.549
+  },
+  {
+   "skill": "agent-payment-x402",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.818
+  },
+  {
+   "skill": "agent-sort",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.657
+  },
+  {
+   "skill": "agentic-engineering",
+   "locale": "ja-JP",
+   "d_headings": -2,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.162
+  },
+  {
+   "skill": "agentic-os",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.742
+  },
+  {
+   "skill": "ai-first-engineering",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.532
+  },
+  {
+   "skill": "ai-regression-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.787
+  },
+  {
+   "skill": "android-clean-architecture",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.893
+  },
+  {
+   "skill": "angular-developer",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.878
+  },
+  {
+   "skill": "api-connector-builder",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.699
+  },
+  {
+   "skill": "api-design",
+   "locale": "ja-JP",
+   "d_headings": -2,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.673
+  },
+  {
+   "skill": "architecture-decision-records",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.632
+  },
+  {
+   "skill": "article-writing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.526
+  },
+  {
+   "skill": "automation-audit-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.604
+  },
+  {
+   "skill": "autonomous-agent-harness",
+   "locale": "ja-JP",
+   "d_headings": -22,
+   "d_blocks": -9,
+   "loss": true,
+   "len_ratio": 0.278
+  },
+  {
+   "skill": "autonomous-loops",
+   "locale": "ja-JP",
+   "d_headings": -60,
+   "d_blocks": -22,
+   "loss": true,
+   "len_ratio": 0.088
+  },
+  {
+   "skill": "backend-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 1,
+   "loss": false,
+   "len_ratio": 0.951
+  },
+  {
+   "skill": "benchmark",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.718
+  },
+  {
+   "skill": "blueprint",
+   "locale": "ja-JP",
+   "d_headings": -5,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.283
+  },
+  {
+   "skill": "brand-voice",
+   "locale": "ja-JP",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.469
+  },
+  {
+   "skill": "browser-qa",
+   "locale": "ja-JP",
+   "d_headings": -3,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.41
+  },
+  {
+   "skill": "bun-runtime",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.717
+  },
+  {
+   "skill": "canary-watch",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.546
+  },
+  {
+   "skill": "carrier-relationship-management",
+   "locale": "ja-JP",
+   "d_headings": -17,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.105
+  },
+  {
+   "skill": "cisco-ios-patterns",
+   "locale": "ja-JP",
+   "d_headings": -5,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.409
+  },
+  {
+   "skill": "ck",
+   "locale": "ja-JP",
+   "d_headings": -5,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.379
+  },
+  {
+   "skill": "claude-devfleet",
+   "locale": "ja-JP",
+   "d_headings": -5,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.293
+  },
+  {
+   "skill": "click-path-audit",
+   "locale": "ja-JP",
+   "d_headings": -13,
+   "d_blocks": -10,
+   "loss": true,
+   "len_ratio": 0.245
+  },
+  {
+   "skill": "clickhouse-io",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.844
+  },
+  {
+   "skill": "code-tour",
+   "locale": "ja-JP",
+   "d_headings": -16,
+   "d_blocks": -8,
+   "loss": true,
+   "len_ratio": 0.13
+  },
+  {
+   "skill": "codebase-onboarding",
+   "locale": "ja-JP",
+   "d_headings": -25,
+   "d_blocks": -3,
+   "loss": true,
+   "len_ratio": 0.113
+  },
+  {
+   "skill": "coding-standards",
+   "locale": "ja-JP",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.837
+  },
+  {
+   "skill": "compose-multiplatform-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.892
+  },
+  {
+   "skill": "configure-ecc",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.673
+  },
+  {
+   "skill": "connections-optimizer",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.632
+  },
+  {
+   "skill": "content-engine",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.549
+  },
+  {
+   "skill": "content-hash-cache-pattern",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.766
+  },
+  {
+   "skill": "context-budget",
+   "locale": "ja-JP",
+   "d_headings": 4,
+   "d_blocks": 3,
+   "loss": false,
+   "len_ratio": 0.639
+  },
+  {
+   "skill": "continuous-agent-loop",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.726
+  },
+  {
+   "skill": "continuous-learning",
+   "locale": "ja-JP",
+   "d_headings": -3,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.539
+  },
+  {
+   "skill": "continuous-learning-v2",
+   "locale": "ja-JP",
+   "d_headings": -11,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.444
+  },
+  {
+   "skill": "cost-aware-llm-pipeline",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.8
+  },
+  {
+   "skill": "cost-tracking",
+   "locale": "ja-JP",
+   "d_headings": 4,
+   "d_blocks": 4,
+   "loss": false,
+   "len_ratio": 0.654
+  },
+  {
+   "skill": "council",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.609
+  },
+  {
+   "skill": "cpp-coding-standards",
+   "locale": "ja-JP",
+   "d_headings": -52,
+   "d_blocks": -20,
+   "loss": true,
+   "len_ratio": 0.049
+  },
+  {
+   "skill": "cpp-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.848
+  },
+  {
+   "skill": "crosspost",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.443
+  },
+  {
+   "skill": "csharp-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.928
+  },
+  {
+   "skill": "customer-billing-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.589
+  },
+  {
+   "skill": "customs-trade-compliance",
+   "locale": "ja-JP",
+   "d_headings": -21,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.042
+  },
+  {
+   "skill": "dart-flutter-patterns",
+   "locale": "ja-JP",
+   "d_headings": -21,
+   "d_blocks": -16,
+   "loss": true,
+   "len_ratio": 0.101
+  },
+  {
+   "skill": "dashboard-builder",
+   "locale": "ja-JP",
+   "d_headings": -6,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.333
+  },
+  {
+   "skill": "data-scraper-agent",
+   "locale": "ja-JP",
+   "d_headings": -47,
+   "d_blocks": -21,
+   "loss": true,
+   "len_ratio": 0.049
+  },
+  {
+   "skill": "database-migrations",
+   "locale": "ja-JP",
+   "d_headings": -46,
+   "d_blocks": -20,
+   "loss": true,
+   "len_ratio": 0.098
+  },
+  {
+   "skill": "deep-research",
+   "locale": "ja-JP",
+   "d_headings": -18,
+   "d_blocks": -7,
+   "loss": true,
+   "len_ratio": 0.083
+  },
+  {
+   "skill": "defi-amm-security",
+   "locale": "ja-JP",
+   "d_headings": -5,
+   "d_blocks": -9,
+   "loss": true,
+   "len_ratio": 0.117
+  },
+  {
+   "skill": "deployment-patterns",
+   "locale": "ja-JP",
+   "d_headings": -36,
+   "d_blocks": -13,
+   "loss": true,
+   "len_ratio": 0.052
+  },
+  {
+   "skill": "design-system",
+   "locale": "ja-JP",
+   "d_headings": 2,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.246
+  },
+  {
+   "skill": "django-celery",
+   "locale": "ja-JP",
+   "d_headings": -51,
+   "d_blocks": -15,
+   "loss": true,
+   "len_ratio": 0.064
+  },
+  {
+   "skill": "django-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.933
+  },
+  {
+   "skill": "django-security",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.834
+  },
+  {
+   "skill": "django-tdd",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.924
+  },
+  {
+   "skill": "django-verification",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.781
+  },
+  {
+   "skill": "dmux-workflows",
+   "locale": "ja-JP",
+   "d_headings": -25,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.114
+  },
+  {
+   "skill": "docker-patterns",
+   "locale": "ja-JP",
+   "d_headings": -54,
+   "d_blocks": -24,
+   "loss": true,
+   "len_ratio": 0.072
+  },
+  {
+   "skill": "documentation-lookup",
+   "locale": "ja-JP",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.51
+  },
+  {
+   "skill": "dotnet-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "e2e-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "ecc-guide",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "ecc-tools-cost-audit",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "email-ops",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.769
+  },
+  {
+   "skill": "energy-procurement",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "enterprise-agent-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "error-handling",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.903
+  },
+  {
+   "skill": "eval-harness",
+   "locale": "ja-JP",
+   "d_headings": -7,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.413
+  },
+  {
+   "skill": "evm-token-decimals",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.859
+  },
+  {
+   "skill": "exa-search",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.612
+  },
+  {
+   "skill": "fal-ai-media",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.764
+  },
+  {
+   "skill": "fastapi-patterns",
+   "locale": "ja-JP",
+   "d_headings": -7,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.504
+  },
+  {
+   "skill": "finance-billing-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.579
+  },
+  {
+   "skill": "flox-environments",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.787
+  },
+  {
+   "skill": "flutter-dart-code-review",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.678
+  },
+  {
+   "skill": "foundation-models-on-device",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "frontend-design-direction",
+   "locale": "ja-JP",
+   "d_headings": -4,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.475
+  },
+  {
+   "skill": "frontend-patterns",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.95
+  },
+  {
+   "skill": "frontend-slides",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "fsharp-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "gan-style-harness",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "gateguard",
+   "locale": "ja-JP",
+   "d_headings": -15,
+   "d_blocks": -3,
+   "loss": true,
+   "len_ratio": 0.306
+  },
+  {
+   "skill": "git-workflow",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "github-ops",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.747
+  },
+  {
+   "skill": "golang-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.901
+  },
+  {
+   "skill": "golang-testing",
+   "locale": "ja-JP",
+   "d_headings": 17,
+   "d_blocks": 15,
+   "loss": false,
+   "len_ratio": 1.098
+  },
+  {
+   "skill": "google-workspace-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "healthcare-cdss-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "healthcare-emr-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "healthcare-eval-harness",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "healthcare-phi-compliance",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "hermes-imports",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "hexagonal-architecture",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "hipaa-compliance",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "homelab-network-readiness",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "homelab-network-setup",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "homelab-pihole-dns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "homelab-vlan-segmentation",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "homelab-wireguard-vpn",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "hookify-rules",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.752
+  },
+  {
+   "skill": "inventory-demand-planning",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "investor-materials",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "investor-outreach",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "ios-icon-gen",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.794
+  },
+  {
+   "skill": "iterative-retrieval",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.733
+  },
+  {
+   "skill": "java-coding-standards",
+   "locale": "ja-JP",
+   "d_headings": -13,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.228
+  },
+  {
+   "skill": "jira-integration",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.696
+  },
+  {
+   "skill": "jpa-patterns",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.77
+  },
+  {
+   "skill": "knowledge-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.603
+  },
+  {
+   "skill": "kotlin-coroutines-flows",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.897
+  },
+  {
+   "skill": "kotlin-exposed-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.952
+  },
+  {
+   "skill": "kotlin-ktor-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.958
+  },
+  {
+   "skill": "kotlin-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.888
+  },
+  {
+   "skill": "kotlin-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "laravel-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "laravel-plugin-discovery",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.0
+  },
+  {
+   "skill": "laravel-security",
+   "locale": "ja-JP",
+   "d_headings": -37,
+   "d_blocks": -17,
+   "loss": true,
+   "len_ratio": 0.219
+  },
+  {
+   "skill": "laravel-tdd",
+   "locale": "ja-JP",
+   "d_headings": -9,
+   "d_blocks": -8,
+   "loss": true,
+   "len_ratio": 0.351
+  },
+  {
+   "skill": "laravel-verification",
+   "locale": "ja-JP",
+   "d_headings": -11,
+   "d_blocks": -17,
+   "loss": true,
+   "len_ratio": 0.032
+  },
+  {
+   "skill": "lead-intelligence",
+   "locale": "ja-JP",
+   "d_headings": -36,
+   "d_blocks": -8,
+   "loss": true,
+   "len_ratio": 0.01
+  },
+  {
+   "skill": "liquid-glass-design",
+   "locale": "ja-JP",
+   "d_headings": -23,
+   "d_blocks": -14,
+   "loss": true,
+   "len_ratio": 0.015
+  },
+  {
+   "skill": "llm-trading-agent-security",
+   "locale": "ja-JP",
+   "d_headings": -10,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.034
+  },
+  {
+   "skill": "logistics-exception-management",
+   "locale": "ja-JP",
+   "d_headings": -23,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.009
+  },
+  {
+   "skill": "make-interfaces-feel-better",
+   "locale": "ja-JP",
+   "d_headings": -13,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.032
+  },
+  {
+   "skill": "manim-video",
+   "locale": "ja-JP",
+   "d_headings": -10,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.044
+  },
+  {
+   "skill": "market-research",
+   "locale": "ja-JP",
+   "d_headings": -10,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.043
+  },
+  {
+   "skill": "mcp-server-patterns",
+   "locale": "ja-JP",
+   "d_headings": -9,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.034
+  },
+  {
+   "skill": "messages-ops",
+   "locale": "ja-JP",
+   "d_headings": -11,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.044
+  },
+  {
+   "skill": "mle-workflow",
+   "locale": "ja-JP",
+   "d_headings": -21,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.005
+  },
+  {
+   "skill": "motion-advanced",
+   "locale": "ja-JP",
+   "d_headings": -29,
+   "d_blocks": -17,
+   "loss": true,
+   "len_ratio": 0.007
+  },
+  {
+   "skill": "motion-foundations",
+   "locale": "ja-JP",
+   "d_headings": -18,
+   "d_blocks": -7,
+   "loss": true,
+   "len_ratio": 0.014
+  },
+  {
+   "skill": "motion-patterns",
+   "locale": "ja-JP",
+   "d_headings": -25,
+   "d_blocks": -11,
+   "loss": true,
+   "len_ratio": 0.009
+  },
+  {
+   "skill": "mysql-patterns",
+   "locale": "ja-JP",
+   "d_headings": -18,
+   "d_blocks": -19,
+   "loss": true,
+   "len_ratio": 0.01
+  },
+  {
+   "skill": "nanoclaw-repl",
+   "locale": "ja-JP",
+   "d_headings": -3,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.165
+  },
+  {
+   "skill": "nestjs-patterns",
+   "locale": "ja-JP",
+   "d_headings": -11,
+   "d_blocks": -8,
+   "loss": true,
+   "len_ratio": 0.02
+  },
+  {
+   "skill": "netmiko-ssh-automation",
+   "locale": "ja-JP",
+   "d_headings": -9,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.024
+  },
+  {
+   "skill": "network-bgp-diagnostics",
+   "locale": "ja-JP",
+   "d_headings": -10,
+   "d_blocks": -5,
+   "loss": true,
+   "len_ratio": 0.026
+  },
+  {
+   "skill": "network-config-validation",
+   "locale": "ja-JP",
+   "d_headings": -11,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.019
+  },
+  {
+   "skill": "network-interface-health",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.738
+  },
+  {
+   "skill": "nextjs-turbopack",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.485
+  },
+  {
+   "skill": "nodejs-keccak256",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.9
+  },
+  {
+   "skill": "nutrient-document-processing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.897
+  },
+  {
+   "skill": "nuxt4-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.712
+  },
+  {
+   "skill": "openclaw-persona-forge",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.995
+  },
+  {
+   "skill": "opensource-pipeline",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.517
+  },
+  {
+   "skill": "perl-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.864
+  },
+  {
+   "skill": "perl-security",
+   "locale": "ja-JP",
+   "d_headings": 2,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.838
+  },
+  {
+   "skill": "perl-testing",
+   "locale": "ja-JP",
+   "d_headings": -73,
+   "d_blocks": -15,
+   "loss": true,
+   "len_ratio": 0.011
+  },
+  {
+   "skill": "plan-orchestrate",
+   "locale": "ja-JP",
+   "d_headings": -23,
+   "d_blocks": -10,
+   "loss": true,
+   "len_ratio": 0.007
+  },
+  {
+   "skill": "plankton-code-quality",
+   "locale": "ja-JP",
+   "d_headings": -30,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.011
+  },
+  {
+   "skill": "postgres-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.889
+  },
+  {
+   "skill": "product-capability",
+   "locale": "ja-JP",
+   "d_headings": -11,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.031
+  },
+  {
+   "skill": "product-lens",
+   "locale": "ja-JP",
+   "d_headings": -8,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.04
+  },
+  {
+   "skill": "production-audit",
+   "locale": "ja-JP",
+   "d_headings": -15,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.017
+  },
+  {
+   "skill": "production-scheduling",
+   "locale": "ja-JP",
+   "d_headings": -25,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.005
+  },
+  {
+   "skill": "project-flow-ops",
+   "locale": "ja-JP",
+   "d_headings": -10,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.044
+  },
+  {
+   "skill": "prompt-optimizer",
+   "locale": "ja-JP",
+   "d_headings": -25,
+   "d_blocks": -7,
+   "loss": true,
+   "len_ratio": 0.008
+  },
+  {
+   "skill": "python-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.937
+  },
+  {
+   "skill": "python-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.899
+  },
+  {
+   "skill": "pytorch-patterns",
+   "locale": "ja-JP",
+   "d_headings": -54,
+   "d_blocks": -15,
+   "loss": true,
+   "len_ratio": 0.011
+  },
+  {
+   "skill": "quality-nonconformance",
+   "locale": "ja-JP",
+   "d_headings": -28,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.005
+  },
+  {
+   "skill": "quarkus-patterns",
+   "locale": "ja-JP",
+   "d_headings": -30,
+   "d_blocks": -19,
+   "loss": true,
+   "len_ratio": 0.006
+  },
+  {
+   "skill": "quarkus-security",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.922
+  },
+  {
+   "skill": "quarkus-tdd",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.91
+  },
+  {
+   "skill": "quarkus-verification",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.851
+  },
+  {
+   "skill": "ralphinho-rfc-pipeline",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.911
+  },
+  {
+   "skill": "redis-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.922
+  },
+  {
+   "skill": "regex-vs-llm-structured-text",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.817
+  },
+  {
+   "skill": "remotion-video-creation",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.138
+  },
+  {
+   "skill": "repo-scan",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.821
+  },
+  {
+   "skill": "research-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.537
+  },
+  {
+   "skill": "returns-reverse-logistics",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.466
+  },
+  {
+   "skill": "rules-distill",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.636
+  },
+  {
+   "skill": "rust-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.912
+  },
+  {
+   "skill": "rust-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.916
+  },
+  {
+   "skill": "safety-guard",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 3,
+   "loss": false,
+   "len_ratio": 0.581
+  },
+  {
+   "skill": "santa-method",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.686
+  },
+  {
+   "skill": "scientific-db-pubmed-database",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.771
+  },
+  {
+   "skill": "scientific-db-uspto-database",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.65
+  },
+  {
+   "skill": "scientific-pkg-gget",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.701
+  },
+  {
+   "skill": "scientific-thinking-literature-review",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.577
+  },
+  {
+   "skill": "scientific-thinking-scholar-evaluation",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.508
+  },
+  {
+   "skill": "search-first",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.723
+  },
+  {
+   "skill": "security-bounty-hunter",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.585
+  },
+  {
+   "skill": "security-review",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.768
+  },
+  {
+   "skill": "security-scan",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.718
+  },
+  {
+   "skill": "seo",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.625
+  },
+  {
+   "skill": "skill-comply",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.632
+  },
+  {
+   "skill": "skill-scout",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.661
+  },
+  {
+   "skill": "skill-stocktake",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.434
+  },
+  {
+   "skill": "social-graph-ranker",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.632
+  },
+  {
+   "skill": "springboot-patterns",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.852
+  },
+  {
+   "skill": "springboot-security",
+   "locale": "ja-JP",
+   "d_headings": -6,
+   "d_blocks": -7,
+   "loss": true,
+   "len_ratio": 0.35
+  },
+  {
+   "skill": "springboot-tdd",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.908
+  },
+  {
+   "skill": "springboot-verification",
+   "locale": "ja-JP",
+   "d_headings": -9,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.247
+  },
+  {
+   "skill": "strategic-compact",
+   "locale": "ja-JP",
+   "d_headings": -8,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.172
+  },
+  {
+   "skill": "swift-actor-persistence",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.889
+  },
+  {
+   "skill": "swift-concurrency-6-2",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.768
+  },
+  {
+   "skill": "swift-protocol-di-testing",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.834
+  },
+  {
+   "skill": "swiftui-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.851
+  },
+  {
+   "skill": "tdd-workflow",
+   "locale": "ja-JP",
+   "d_headings": -5,
+   "d_blocks": -5,
+   "loss": true,
+   "len_ratio": 0.353
+  },
+  {
+   "skill": "team-builder",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.612
+  },
+  {
+   "skill": "terminal-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.588
+  },
+  {
+   "skill": "tinystruct-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.763
+  },
+  {
+   "skill": "token-budget-advisor",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.588
+  },
+  {
+   "skill": "ui-demo",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.85
+  },
+  {
+   "skill": "ui-to-vue",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.528
+  },
+  {
+   "skill": "unified-notifications-ops",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.584
+  },
+  {
+   "skill": "verification-loop",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.461
+  },
+  {
+   "skill": "video-editing",
+   "locale": "ja-JP",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.625
+  },
+  {
+   "skill": "videodb",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.791
+  },
+  {
+   "skill": "visa-doc-translate",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.627
+  },
+  {
+   "skill": "vite-patterns",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.789
+  },
+  {
+   "skill": "windows-desktop-e2e",
+   "locale": "ja-JP",
+   "d_headings": -7,
+   "d_blocks": -3,
+   "loss": true,
+   "len_ratio": 0.731
+  },
+  {
+   "skill": "workspace-surface-audit",
+   "locale": "ja-JP",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.589
+  },
+  {
+   "skill": "x-api",
+   "locale": "ja-JP",
+   "d_headings": -2,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.64
+  },
+  {
+   "skill": "backend-patterns",
+   "locale": "ko-KR",
+   "d_headings": 1,
+   "d_blocks": 1,
+   "loss": false,
+   "len_ratio": 1.013
+  },
+  {
+   "skill": "clickhouse-io",
+   "locale": "ko-KR",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.881
+  },
+  {
+   "skill": "coding-standards",
+   "locale": "ko-KR",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.859
+  },
+  {
+   "skill": "continuous-learning",
+   "locale": "ko-KR",
+   "d_headings": 1,
+   "d_blocks": 2,
+   "loss": false,
+   "len_ratio": 0.703
+  },
+  {
+   "skill": "continuous-learning-v2",
+   "locale": "ko-KR",
+   "d_headings": -2,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.659
+  },
+  {
+   "skill": "eval-harness",
+   "locale": "ko-KR",
+   "d_headings": -1,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.588
+  },
+  {
+   "skill": "frontend-patterns",
+   "locale": "ko-KR",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.952
+  },
+  {
+   "skill": "golang-patterns",
+   "locale": "ko-KR",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.909
+  },
+  {
+   "skill": "golang-testing",
+   "locale": "ko-KR",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.949
+  },
+  {
+   "skill": "iterative-retrieval",
+   "locale": "ko-KR",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.848
+  },
+  {
+   "skill": "postgres-patterns",
+   "locale": "ko-KR",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.902
+  },
+  {
+   "skill": "security-review",
+   "locale": "ko-KR",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.838
+  },
+  {
+   "skill": "strategic-compact",
+   "locale": "ko-KR",
+   "d_headings": -5,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.294
+  },
+  {
+   "skill": "tdd-workflow",
+   "locale": "ko-KR",
+   "d_headings": -5,
+   "d_blocks": -5,
+   "loss": true,
+   "len_ratio": 0.378
+  },
+  {
+   "skill": "verification-loop",
+   "locale": "ko-KR",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.543
+  },
+  {
+   "skill": "api-design",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.037
+  },
+  {
+   "skill": "backend-patterns",
+   "locale": "tr",
+   "d_headings": 1,
+   "d_blocks": 1,
+   "loss": false,
+   "len_ratio": 1.055
+  },
+  {
+   "skill": "coding-standards",
+   "locale": "tr",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.962
+  },
+  {
+   "skill": "continuous-learning",
+   "locale": "tr",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.873
+  },
+  {
+   "skill": "continuous-learning-v2",
+   "locale": "tr",
+   "d_headings": -2,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.927
+  },
+  {
+   "skill": "database-migrations",
+   "locale": "tr",
+   "d_headings": -10,
+   "d_blocks": -4,
+   "loss": true,
+   "len_ratio": 0.797
+  },
+  {
+   "skill": "deployment-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.046
+  },
+  {
+   "skill": "django-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.008
+  },
+  {
+   "skill": "docker-patterns",
+   "locale": "tr",
+   "d_headings": -5,
+   "d_blocks": -12,
+   "loss": true,
+   "len_ratio": 0.507
+  },
+  {
+   "skill": "e2e-testing",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.008
+  },
+  {
+   "skill": "eval-harness",
+   "locale": "tr",
+   "d_headings": -1,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.822
+  },
+  {
+   "skill": "frontend-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.012
+  },
+  {
+   "skill": "golang-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.999
+  },
+  {
+   "skill": "golang-testing",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.026
+  },
+  {
+   "skill": "jpa-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.045
+  },
+  {
+   "skill": "kotlin-patterns",
+   "locale": "tr",
+   "d_headings": -9,
+   "d_blocks": -7,
+   "loss": true,
+   "len_ratio": 0.795
+  },
+  {
+   "skill": "kotlin-testing",
+   "locale": "tr",
+   "d_headings": -13,
+   "d_blocks": -9,
+   "loss": true,
+   "len_ratio": 0.72
+  },
+  {
+   "skill": "laravel-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.048
+  },
+  {
+   "skill": "laravel-security",
+   "locale": "tr",
+   "d_headings": -37,
+   "d_blocks": -17,
+   "loss": true,
+   "len_ratio": 0.297
+  },
+  {
+   "skill": "laravel-tdd",
+   "locale": "tr",
+   "d_headings": -9,
+   "d_blocks": -8,
+   "loss": true,
+   "len_ratio": 0.433
+  },
+  {
+   "skill": "laravel-verification",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.073
+  },
+  {
+   "skill": "nextjs-turbopack",
+   "locale": "tr",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.861
+  },
+  {
+   "skill": "postgres-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.031
+  },
+  {
+   "skill": "python-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.023
+  },
+  {
+   "skill": "python-testing",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.006
+  },
+  {
+   "skill": "quarkus-patterns",
+   "locale": "tr",
+   "d_headings": 2,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.143
+  },
+  {
+   "skill": "quarkus-security",
+   "locale": "tr",
+   "d_headings": 2,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.036
+  },
+  {
+   "skill": "quarkus-tdd",
+   "locale": "tr",
+   "d_headings": 1,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.185
+  },
+  {
+   "skill": "quarkus-verification",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.052
+  },
+  {
+   "skill": "rust-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.038
+  },
+  {
+   "skill": "rust-testing",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.027
+  },
+  {
+   "skill": "security-review",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.979
+  },
+  {
+   "skill": "springboot-patterns",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.029
+  },
+  {
+   "skill": "springboot-security",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.06
+  },
+  {
+   "skill": "springboot-tdd",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.047
+  },
+  {
+   "skill": "springboot-verification",
+   "locale": "tr",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.038
+  },
+  {
+   "skill": "tdd-workflow",
+   "locale": "tr",
+   "d_headings": -5,
+   "d_blocks": -5,
+   "loss": true,
+   "len_ratio": 0.454
+  },
+  {
+   "skill": "verification-loop",
+   "locale": "tr",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.709
+  },
+  {
+   "skill": "accessibility",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.638
+  },
+  {
+   "skill": "agent-eval",
+   "locale": "zh-CN",
+   "d_headings": 1,
+   "d_blocks": 1,
+   "loss": false,
+   "len_ratio": 0.713
+  },
+  {
+   "skill": "agent-harness-construction",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.433
+  },
+  {
+   "skill": "agent-introspection-debugging",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.391
+  },
+  {
+   "skill": "agent-payment-x402",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.757
+  },
+  {
+   "skill": "agent-sort",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.468
+  },
+  {
+   "skill": "agentic-engineering",
+   "locale": "zh-CN",
+   "d_headings": -2,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.118
+  },
+  {
+   "skill": "ai-first-engineering",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.366
+  },
+  {
+   "skill": "ai-regression-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.764
+  },
+  {
+   "skill": "android-clean-architecture",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.852
+  },
+  {
+   "skill": "api-connector-builder",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.487
+  },
+  {
+   "skill": "api-design",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.789
+  },
+  {
+   "skill": "architecture-decision-records",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.489
+  },
+  {
+   "skill": "article-writing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.407
+  },
+  {
+   "skill": "automation-audit-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.432
+  },
+  {
+   "skill": "autonomous-agent-harness",
+   "locale": "zh-CN",
+   "d_headings": 3,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.527
+  },
+  {
+   "skill": "autonomous-loops",
+   "locale": "zh-CN",
+   "d_headings": -3,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.642
+  },
+  {
+   "skill": "backend-patterns",
+   "locale": "zh-CN",
+   "d_headings": 1,
+   "d_blocks": 1,
+   "loss": false,
+   "len_ratio": 0.988
+  },
+  {
+   "skill": "benchmark",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.576
+  },
+  {
+   "skill": "blueprint",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.474
+  },
+  {
+   "skill": "brand-voice",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.407
+  },
+  {
+   "skill": "browser-qa",
+   "locale": "zh-CN",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.378
+  },
+  {
+   "skill": "bun-runtime",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.613
+  },
+  {
+   "skill": "canary-watch",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.568
+  },
+  {
+   "skill": "carrier-relationship-management",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.382
+  },
+  {
+   "skill": "ck",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.588
+  },
+  {
+   "skill": "claude-devfleet",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.603
+  },
+  {
+   "skill": "click-path-audit",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.594
+  },
+  {
+   "skill": "clickhouse-io",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.872
+  },
+  {
+   "skill": "code-tour",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.516
+  },
+  {
+   "skill": "codebase-onboarding",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.564
+  },
+  {
+   "skill": "coding-standards",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.829
+  },
+  {
+   "skill": "compose-multiplatform-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.871
+  },
+  {
+   "skill": "configure-ecc",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.577
+  },
+  {
+   "skill": "connections-optimizer",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.448
+  },
+  {
+   "skill": "content-engine",
+   "locale": "zh-CN",
+   "d_headings": -3,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.25
+  },
+  {
+   "skill": "content-hash-cache-pattern",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.743
+  },
+  {
+   "skill": "context-budget",
+   "locale": "zh-CN",
+   "d_headings": 4,
+   "d_blocks": 3,
+   "loss": false,
+   "len_ratio": 0.461
+  },
+  {
+   "skill": "continuous-agent-loop",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.6
+  },
+  {
+   "skill": "continuous-learning",
+   "locale": "zh-CN",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.512
+  },
+  {
+   "skill": "continuous-learning-v2",
+   "locale": "zh-CN",
+   "d_headings": -2,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.6
+  },
+  {
+   "skill": "cost-aware-llm-pipeline",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.768
+  },
+  {
+   "skill": "council",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.411
+  },
+  {
+   "skill": "cpp-coding-standards",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.753
+  },
+  {
+   "skill": "cpp-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.787
+  },
+  {
+   "skill": "crosspost",
+   "locale": "zh-CN",
+   "d_headings": 1,
+   "d_blocks": 6,
+   "loss": false,
+   "len_ratio": 0.696
+  },
+  {
+   "skill": "csharp-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.918
+  },
+  {
+   "skill": "customer-billing-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.383
+  },
+  {
+   "skill": "customs-trade-compliance",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.358
+  },
+  {
+   "skill": "dart-flutter-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.927
+  },
+  {
+   "skill": "dashboard-builder",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.46
+  },
+  {
+   "skill": "data-scraper-agent",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.824
+  },
+  {
+   "skill": "database-migrations",
+   "locale": "zh-CN",
+   "d_headings": -9,
+   "d_blocks": -3,
+   "loss": true,
+   "len_ratio": 0.64
+  },
+  {
+   "skill": "deep-research",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.399
+  },
+  {
+   "skill": "defi-amm-security",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.709
+  },
+  {
+   "skill": "deployment-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.78
+  },
+  {
+   "skill": "design-system",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.504
+  },
+  {
+   "skill": "django-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.958
+  },
+  {
+   "skill": "django-security",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.862
+  },
+  {
+   "skill": "django-tdd",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.946
+  },
+  {
+   "skill": "django-verification",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.795
+  },
+  {
+   "skill": "dmux-workflows",
+   "locale": "zh-CN",
+   "d_headings": -3,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.609
+  },
+  {
+   "skill": "docker-patterns",
+   "locale": "zh-CN",
+   "d_headings": -5,
+   "d_blocks": -12,
+   "loss": true,
+   "len_ratio": 0.443
+  },
+  {
+   "skill": "documentation-lookup",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.546
+  },
+  {
+   "skill": "dotnet-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.914
+  },
+  {
+   "skill": "e2e-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.947
+  },
+  {
+   "skill": "ecc-guide",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.602
+  },
+  {
+   "skill": "ecc-tools-cost-audit",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.436
+  },
+  {
+   "skill": "email-ops",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.3
+  },
+  {
+   "skill": "energy-procurement",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.332
+  },
+  {
+   "skill": "enterprise-agent-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.419
+  },
+  {
+   "skill": "eval-harness",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.43
+  },
+  {
+   "skill": "evm-token-decimals",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.811
+  },
+  {
+   "skill": "exa-search",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.491
+  },
+  {
+   "skill": "fal-ai-media",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.668
+  },
+  {
+   "skill": "finance-billing-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.39
+  },
+  {
+   "skill": "flutter-dart-code-review",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.562
+  },
+  {
+   "skill": "foundation-models-on-device",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.735
+  },
+  {
+   "skill": "frontend-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.952
+  },
+  {
+   "skill": "frontend-slides",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.482
+  },
+  {
+   "skill": "gan-style-harness",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.609
+  },
+  {
+   "skill": "gateguard",
+   "locale": "zh-CN",
+   "d_headings": -16,
+   "d_blocks": -3,
+   "loss": true,
+   "len_ratio": 0.139
+  },
+  {
+   "skill": "git-workflow",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.769
+  },
+  {
+   "skill": "github-ops",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.485
+  },
+  {
+   "skill": "golang-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.875
+  },
+  {
+   "skill": "golang-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.927
+  },
+  {
+   "skill": "google-workspace-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.424
+  },
+  {
+   "skill": "healthcare-cdss-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.808
+  },
+  {
+   "skill": "healthcare-emr-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.474
+  },
+  {
+   "skill": "healthcare-eval-harness",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.742
+  },
+  {
+   "skill": "healthcare-phi-compliance",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.656
+  },
+  {
+   "skill": "hermes-imports",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.424
+  },
+  {
+   "skill": "hexagonal-architecture",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.57
+  },
+  {
+   "skill": "hipaa-compliance",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.447
+  },
+  {
+   "skill": "hookify-rules",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.523
+  },
+  {
+   "skill": "inventory-demand-planning",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.393
+  },
+  {
+   "skill": "investor-materials",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.393
+  },
+  {
+   "skill": "investor-outreach",
+   "locale": "zh-CN",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.319
+  },
+  {
+   "skill": "iterative-retrieval",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.705
+  },
+  {
+   "skill": "java-coding-standards",
+   "locale": "zh-CN",
+   "d_headings": -12,
+   "d_blocks": -6,
+   "loss": true,
+   "len_ratio": 0.232
+  },
+  {
+   "skill": "jira-integration",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.593
+  },
+  {
+   "skill": "jpa-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.753
+  },
+  {
+   "skill": "knowledge-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.431
+  },
+  {
+   "skill": "kotlin-coroutines-flows",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.875
+  },
+  {
+   "skill": "kotlin-exposed-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.946
+  },
+  {
+   "skill": "kotlin-ktor-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.95
+  },
+  {
+   "skill": "kotlin-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.914
+  },
+  {
+   "skill": "kotlin-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.925
+  },
+  {
+   "skill": "laravel-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.805
+  },
+  {
+   "skill": "laravel-plugin-discovery",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.6
+  },
+  {
+   "skill": "laravel-security",
+   "locale": "zh-CN",
+   "d_headings": -37,
+   "d_blocks": -17,
+   "loss": true,
+   "len_ratio": 0.199
+  },
+  {
+   "skill": "laravel-tdd",
+   "locale": "zh-CN",
+   "d_headings": -9,
+   "d_blocks": -8,
+   "loss": true,
+   "len_ratio": 0.324
+  },
+  {
+   "skill": "laravel-verification",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.675
+  },
+  {
+   "skill": "lead-intelligence",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.475
+  },
+  {
+   "skill": "liquid-glass-design",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.745
+  },
+  {
+   "skill": "llm-trading-agent-security",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.776
+  },
+  {
+   "skill": "logistics-exception-management",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.388
+  },
+  {
+   "skill": "manim-video",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.451
+  },
+  {
+   "skill": "market-research",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.257
+  },
+  {
+   "skill": "mcp-server-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.534
+  },
+  {
+   "skill": "messages-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.431
+  },
+  {
+   "skill": "nanoclaw-repl",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.553
+  },
+  {
+   "skill": "nestjs-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.715
+  },
+  {
+   "skill": "nextjs-turbopack",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.396
+  },
+  {
+   "skill": "nodejs-keccak256",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.875
+  },
+  {
+   "skill": "nutrient-document-processing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.873
+  },
+  {
+   "skill": "nuxt4-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.571
+  },
+  {
+   "skill": "opensource-pipeline",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.402
+  },
+  {
+   "skill": "parallel-execution-optimizer",
+   "locale": "zh-CN",
+   "d_headings": -4,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.16
+  },
+  {
+   "skill": "perl-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.885
+  },
+  {
+   "skill": "perl-security",
+   "locale": "zh-CN",
+   "d_headings": 2,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.881
+  },
+  {
+   "skill": "perl-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.837
+  },
+  {
+   "skill": "plankton-code-quality",
+   "locale": "zh-CN",
+   "d_headings": -2,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.411
+  },
+  {
+   "skill": "postgres-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.866
+  },
+  {
+   "skill": "product-capability",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.394
+  },
+  {
+   "skill": "product-lens",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.456
+  },
+  {
+   "skill": "production-scheduling",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.347
+  },
+  {
+   "skill": "project-flow-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.477
+  },
+  {
+   "skill": "prompt-optimizer",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.636
+  },
+  {
+   "skill": "python-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.918
+  },
+  {
+   "skill": "python-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.872
+  },
+  {
+   "skill": "pytorch-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.914
+  },
+  {
+   "skill": "quality-nonconformance",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.361
+  },
+  {
+   "skill": "ralphinho-rfc-pipeline",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.476
+  },
+  {
+   "skill": "regex-vs-llm-structured-text",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.765
+  },
+  {
+   "skill": "remotion-video-creation",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 1.054
+  },
+  {
+   "skill": "repo-scan",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.743
+  },
+  {
+   "skill": "research-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.403
+  },
+  {
+   "skill": "returns-reverse-logistics",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.366
+  },
+  {
+   "skill": "rules-distill",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.552
+  },
+  {
+   "skill": "rust-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.882
+  },
+  {
+   "skill": "rust-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.881
+  },
+  {
+   "skill": "safety-guard",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 3,
+   "loss": false,
+   "len_ratio": 0.461
+  },
+  {
+   "skill": "santa-method",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.623
+  },
+  {
+   "skill": "search-first",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.507
+  },
+  {
+   "skill": "security-bounty-hunter",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.423
+  },
+  {
+   "skill": "security-review",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.775
+  },
+  {
+   "skill": "security-scan",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.669
+  },
+  {
+   "skill": "seo",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.477
+  },
+  {
+   "skill": "skill-comply",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.507
+  },
+  {
+   "skill": "skill-stocktake",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.386
+  },
+  {
+   "skill": "social-graph-ranker",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.471
+  },
+  {
+   "skill": "springboot-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.882
+  },
+  {
+   "skill": "springboot-security",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.815
+  },
+  {
+   "skill": "springboot-tdd",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.873
+  },
+  {
+   "skill": "springboot-verification",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.838
+  },
+  {
+   "skill": "strategic-compact",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.39
+  },
+  {
+   "skill": "swift-actor-persistence",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.732
+  },
+  {
+   "skill": "swift-concurrency-6-2",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.691
+  },
+  {
+   "skill": "swift-protocol-di-testing",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.778
+  },
+  {
+   "skill": "swiftui-patterns",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.797
+  },
+  {
+   "skill": "tdd-workflow",
+   "locale": "zh-CN",
+   "d_headings": -5,
+   "d_blocks": -5,
+   "loss": true,
+   "len_ratio": 0.353
+  },
+  {
+   "skill": "team-builder",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.458
+  },
+  {
+   "skill": "terminal-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.429
+  },
+  {
+   "skill": "token-budget-advisor",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.62
+  },
+  {
+   "skill": "ui-demo",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.788
+  },
+  {
+   "skill": "unified-notifications-ops",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.424
+  },
+  {
+   "skill": "verification-loop",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.443
+  },
+  {
+   "skill": "video-editing",
+   "locale": "zh-CN",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.544
+  },
+  {
+   "skill": "videodb",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.705
+  },
+  {
+   "skill": "visa-doc-translate",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.534
+  },
+  {
+   "skill": "workspace-surface-audit",
+   "locale": "zh-CN",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.433
+  },
+  {
+   "skill": "x-api",
+   "locale": "zh-CN",
+   "d_headings": -2,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.597
+  },
+  {
+   "skill": "backend-patterns",
+   "locale": "zh-TW",
+   "d_headings": 0,
+   "d_blocks": 1,
+   "loss": false,
+   "len_ratio": 0.93
+  },
+  {
+   "skill": "clickhouse-io",
+   "locale": "zh-TW",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.806
+  },
+  {
+   "skill": "coding-standards",
+   "locale": "zh-TW",
+   "d_headings": -2,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.728
+  },
+  {
+   "skill": "continuous-learning",
+   "locale": "zh-TW",
+   "d_headings": -3,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.485
+  },
+  {
+   "skill": "continuous-learning-v2",
+   "locale": "zh-TW",
+   "d_headings": -10,
+   "d_blocks": -2,
+   "loss": true,
+   "len_ratio": 0.389
+  },
+  {
+   "skill": "eval-harness",
+   "locale": "zh-TW",
+   "d_headings": -7,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.372
+  },
+  {
+   "skill": "frontend-patterns",
+   "locale": "zh-TW",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.907
+  },
+  {
+   "skill": "golang-patterns",
+   "locale": "zh-TW",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.796
+  },
+  {
+   "skill": "golang-testing",
+   "locale": "zh-TW",
+   "d_headings": -1,
+   "d_blocks": -1,
+   "loss": true,
+   "len_ratio": 0.867
+  },
+  {
+   "skill": "iterative-retrieval",
+   "locale": "zh-TW",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.677
+  },
+  {
+   "skill": "postgres-patterns",
+   "locale": "zh-TW",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.828
+  },
+  {
+   "skill": "security-review",
+   "locale": "zh-TW",
+   "d_headings": 0,
+   "d_blocks": 0,
+   "loss": false,
+   "len_ratio": 0.721
+  },
+  {
+   "skill": "strategic-compact",
+   "locale": "zh-TW",
+   "d_headings": -8,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.145
+  },
+  {
+   "skill": "tdd-workflow",
+   "locale": "zh-TW",
+   "d_headings": -5,
+   "d_blocks": -5,
+   "loss": true,
+   "len_ratio": 0.328
+  },
+  {
+   "skill": "verification-loop",
+   "locale": "zh-TW",
+   "d_headings": -1,
+   "d_blocks": 0,
+   "loss": true,
+   "len_ratio": 0.416
+  }
+ ]
+}
